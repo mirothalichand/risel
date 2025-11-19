@@ -9,8 +9,6 @@ This repository contains the full implementation of the RISEL framework proposed
 - 5-fold cross-validation and temporal train–test split
 - Reward shaping for class imbalance
 - Ablation studies (1/2/3/4 RL models)
-- Cross-site generalizability experiments
-- Statistical significance testing (paired t-tests)
 - Sensor preprocessing & lag feature creation
 - Inference scripts
 
@@ -25,5 +23,5 @@ Torch, LightGBM, CatBoost, Scikit-learn, Pandas, NumPy
 
 ## Usage
 ```bash
-python train_risel.py
-python evaluate_risel.py
+python src.py
+
