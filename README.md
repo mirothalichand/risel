@@ -16,11 +16,8 @@ This repository contains the full implementation of the RISEL framework proposed
 
 ## Repository Contents
 - `/src/` – full source code
-- `/notebooks/RISEL_model.ipynb` – main training + evaluation pipeline
-- `/data/` – anonymized sample dataset
-- `/configs/` – hyperparameter & reward configuration files
-- `/results/` – example outputs (confusion matrices, metrics)
-- `/docs/` – manuscript-related documentation
+- `/RISEL_model.ipynb` – main training + evaluation pipeline
+- `/sample data` – anonymized sample dataset
 
 ## Requirements
 Python 3.8+  
